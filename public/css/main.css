@@ -196,6 +196,12 @@ margin-bottom: 12px;
   color: #be3487;
 }
 
+.dropdown:hover>.dropdown-menu {
+  display: block;
+}
+
+
+
 
 
 
